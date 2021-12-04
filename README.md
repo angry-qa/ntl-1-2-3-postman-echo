@@ -1,6 +1,7 @@
-# Postman Echo tests and AppVeyor CI 
+# Postman Echo tests and AppVeyor CI [![Build status](https://ci.appveyor.com/api/projects/status/4jqb6ya13i842g26?svg=true)](https://ci.appveyor.com/project/angry-qa/ntl-1-2-3-postman-echo)
 
-Desription:
+
+Description:
 https://github.com/angry-qa/aqa-homeworks/tree/master/api-ci
 
 Local Run:
