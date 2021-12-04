@@ -4,6 +4,9 @@
 Description:
 https://github.com/angry-qa/aqa-homeworks/tree/master/api-ci
 
+AppVeyor Run:
+https://ci.appveyor.com/project/angry-qa/ntl-1-2-3-postman-echo
+
 Local Run:
 
     gradle clean test
